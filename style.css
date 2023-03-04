@@ -52,11 +52,8 @@
 }
 
 .nav ul li a:hover {
-  background-color: rgba(16, 144, 148, 0.555);
-  border-radius: 10px;
-  padding: 7px 10px;
-  transition: 0.6s;
-  letter-spacing: 2px;
+  color: rgba(16, 144, 148, 0.555);
+  transition: 0.3s;
 }
 
 /*===================================*/
